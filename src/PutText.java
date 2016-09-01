@@ -8,7 +8,7 @@
 
 /**
  *
- * @author Carito
+ * @author Freddy Nicolay Vanegas
  */
 public class PutText {
     public static void main (String[] args){

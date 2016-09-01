@@ -6,7 +6,7 @@
 
 /**
  *
- * @author fnvanegasp
+ * @author Freddy Nicolay Vanegas
  */
 public class Pig {
     public static void main(String[] args) {

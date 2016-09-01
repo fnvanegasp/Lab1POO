@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Carito
+ * @author Freddy Nicolay Vanegas
  */
 public class Lottery {
     
